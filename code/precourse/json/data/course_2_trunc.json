@@ -1,0 +1,8 @@
+{
+  "course_id" : "cbc",
+  "weeks" : [ "week 1" ],
+  "content_units" : {
+    "precourse" : [ "install", "json" ],
+    "week 1" : [ "lesson 1", "lesson 2", "lesson 3" ]
+  }
+}

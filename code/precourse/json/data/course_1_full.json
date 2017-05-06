@@ -1,0 +1,9 @@
+{
+  "course_id" : "cbc",
+  "weeks" : [ "precourse", "week 1", "week 2", "week 3", "week 4" ],
+  "content_units" : {
+    "precourse" : [ "install", "setup", "json parsing" ],
+    "week 1" : [ "hello cognitive world", "visual recognition" ],
+    "week 2" : [ "conversation", "discovery" ]
+  }
+}
