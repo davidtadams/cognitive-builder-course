@@ -40,4 +40,6 @@ pip-delete-this-directory.txt
 # dotenv
 .env
 
+# General
 .DS_Store
+*.mp4
