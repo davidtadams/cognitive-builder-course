@@ -39,3 +39,5 @@ pip-delete-this-directory.txt
 
 # dotenv
 .env
+
+.DS_Store
