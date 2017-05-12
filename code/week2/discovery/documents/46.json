@@ -1,0 +1,6 @@
+{
+  "asin": "0123748569", 
+  "price": 20.99, 
+  "reviewText": "This handbook provides an excellent overview of Data Mining and Machine Learning Techniques, and is written by 3 distinguished Lecturers/Professors of Computer Science in New Zealand.  As difficult a topic as Statistical Machine Learning ordinarily requires an advanced knowledge of Linear Algebra, and Statistics.  By relying heavily on verbal descriptions and illustrations from the Open Source (JAVA-based) package WEKA package the authors have made this important and extremely useful (consider the wide mention of Analytics in the business press) fairly understandable.  The heavy emphasis on WEKA (perhaps 30-40% of the book in this edition) is both a strength and weakness of the book; it sometimes provides excellent verbal description and illustrations; but a times feels like a user manual for WEKA.This is a generally understandable introduction and commentary on a vital and sometimes difficult topic. My only minor criticism is that the book contains limited descriptions of Neural Networks andSupport Vector Machines, two important Machine Learning methods in current use.--Ira Laefsky", 
+  "title": "Data Mining: Practical Machine Learning Tools and Techniques, Third Edition (The Morgan Kaufmann Series in Data Management Systems)"
+}

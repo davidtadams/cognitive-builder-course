@@ -1,0 +1,6 @@
+{
+  "asin": "0070428077", 
+  "price": 50.27, 
+  "reviewText": "This is not my favorite machine learning book, but Tom Mitchell did us all a favor by writing it.  It covers the breadth of topics that make up the machine learning discipline fairly completely.  Since this book is about completely, there is also a shallowness, but that shallowness does not trim out complete descriptions of the algorithms covered.  Oh no, all the gory math is there, what isn't there are simple examples.My first time through the book, what gave me the biggest headache was trying to understand back propagation from the algorithm pseudo code and the proof of correctness.  I really really wanted one simple example at that point to make sure I understood the correct use of all the greek terms.So good book, but I really wanted \"Machine Learning Examples\" to go along with it back when I first picked it up.  But once you understand, the book is a great reference.", 
+  "title": "Machine Learning"
+}

@@ -1,0 +1,6 @@
+{
+  "asin": "111866146X", 
+  "price": 26.77, 
+  "reviewText": "Foreman is an engaging writer.This book is aimed at someone like me, someone with a long-ago background in college statistics and a current general familiarity with Microsoft Excel.  Foreman uses Excel skillfully as a teaching tool. He demonstrates repeatedly how, using Excel, it is possible to piece together hundreds (or thousands) of data micro-bits to create useful statistical predictions.Foreman does not claim that Excel is an optimal tool for large data science projects. Data science professionals will prefer other tools (like the R language) for large-scale projects involving millions of records. Still, all by itself, Excel is serviceable for smaller-scale data science projects. And, as Foreman shows, Excel is useful as a teaching tool, to illustrate otherwise-difficult statistical concepts.The book is well-written and useful. Five stars.", 
+  "title": "Data Smart: Using Data Science to Transform Information into Insight"
+}

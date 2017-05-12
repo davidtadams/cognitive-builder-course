@@ -1,0 +1,6 @@
+{
+  "asin": "0123748569", 
+  "price": 20.99, 
+  "reviewText": "This is my first read through a technical text on data mining.  Despite only having experience with more general programming, math and statistical analysis, I found the material approachable.  While the text caters well to the novice, there is substantial detail and enough content for the practitioner, which is what I'm aiming for.The content is organized into 3 sections: basic concepts, advanced concepts, and WEKA.  The organization was a major strength of the text and I was glad to have more advanced material put off for the 2nd section while I was still familiarizing myself with basic terms and methodology.  The final section covers WEKA - which is a free, publicly licensed software tool capable of grinding out what you are learning in the book.Overall, Data Mining exceeded my expectations.  It covered all the topics I hoped it would, like predictive modeling, regression, recursion, noise, logic tres, efficiency, etc.  While I am only a novice, I can easily recommend this book to anyone looking for a catchall on this subject egardless of knowledge.", 
+  "title": "Data Mining: Practical Machine Learning Tools and Techniques, Third Edition (The Morgan Kaufmann Series in Data Management Systems)"
+}

@@ -1,0 +1,6 @@
+{
+  "asin": "1461471370", 
+  "price": 56.47, 
+  "reviewText": "This book introduces the important topics regarding Classification and Regression in unified fashion along with concepts such as over-fitting, bias-variance trade-off etc. You don't need to extra mathematical background. The explanation is easy-to understand and integrated. If you are a novice on Machine Learning, and non-professional in Machine Learning, this will be a good starting point. Moreover, If you have a good knowledge about ML, or professional, this book will pin-point the important concept that you probably have missed. However, if you need a MATHEMATICALLY RIGOROUS treatment about ML, this book is not. This book is for practitioners who wish to use ML to solve a specific problem. Good companion with this book is &#34;Machine Learning in Action&#34; by Peter Harrington because this book contains no implementation details about the technique but just execution of R. In MLiA there are plenty of implementation code written in Python. Altogether, Highly Recommended!!!", 
+  "title": "An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)"
+}

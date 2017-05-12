@@ -1,0 +1,6 @@
+{
+  "asin": "0123748569", 
+  "price": 20.99, 
+  "reviewText": "I have the second edition of Data Mining, but would like to put in a good word for the book, and hope to get the new issue soon. (I hope to say more in the future.) I have been a data miner, and am in awe of the potential of this modern technology.What is Data Mining? As the authors explain it, it is more than a stored data warehouse of searchable data, or of a database of like-information. It enables enhanced knowledge to develop from data or from experts' behavior (assuming there is a data record of such) and it could be described as a form of knowledge management, with machine learning, the assistance of machines, as a critical component. Sure you could compile spreadsheets or matrices by hand also.This is really the only good book on the topic that I know of. Other sources for this topic are the academic journals. The good thing is this book gets you to work, using the WEKA system that the authors developed, and offer for free.", 
+  "title": "Data Mining: Practical Machine Learning Tools and Techniques, Third Edition (The Morgan Kaufmann Series in Data Management Systems)"
+}

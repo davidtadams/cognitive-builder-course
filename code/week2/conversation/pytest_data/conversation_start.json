@@ -1,0 +1,36 @@
+{
+  "intents": [],
+  "entities": [],
+  "input": {},
+  "output": {
+    "log_messages": [],
+    "text": [
+      "Hi! How can I help you?"
+    ],
+    "nodes_visited": [
+      "Start"
+    ]
+  },
+  "context": {
+    "conversation_id": "ea1be497-b8a0-4417-985b-8aab9817d219",
+    "system": {
+      "dialog_stack": [
+        {
+          "dialog_node": "root"
+        }
+      ],
+      "dialog_turn_counter": 1,
+      "dialog_request_counter": 1,
+      "_node_output_map": {
+        "Start": [
+          0,
+          0,
+          1
+        ]
+      },
+      "branch_exited": true,
+      "branch_exited_reason": "completed"
+    }
+  },
+  "alternate_intents": false
+}

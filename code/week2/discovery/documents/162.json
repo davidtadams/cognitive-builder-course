@@ -1,0 +1,6 @@
+{
+  "asin": "0750676132", 
+  "price": 27.85, 
+  "reviewText": "Are you interested in IDS's?If yes, perhaps you may already know that there are two main kinds of IDS's: based on \"known bad behavior or abuse\" or based on \"behavior deviation\".The first kind is very well known after several popular implementations like SNORT.On the plus side they are not prone to \"false positives\" but, however,on the minus side they are almost useless with new forms of attacks.The second kind, in turn, is very prone to false positives and not yet well implemented, but eventually can handle quite well unexpected or new forms of attacks.If you are interested in this second type of IDS's then \"Investigative Data Mining for Security and Criminal Detection\" is a MUST.From basic definitions to a case study, you are leaded through a wonderful tour that includes among others:Intelligent AgentsText MiningNeural NetworksMachine LearningCriminal PatternsIntrusion DetectionSo, if you are just casually interested in \"behavior deviation\" based IDS's or a true researcher in related areas, this book undoubtedly will be useful and of great help.", 
+  "title": "Investigative Data Mining for Security and Criminal Detection"
+}

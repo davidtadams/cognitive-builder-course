@@ -1,0 +1,6 @@
+{
+  "asin": "0070428077", 
+  "price": 50.27, 
+  "reviewText": "It's pretty well done, it covers theory and core areas but - maybe it was more the state of the field when it was written - I found it unsatisfyingly un-synthesized, unconnected, and short of detail (but this is subjective). I found the 2nd edition of Russell and Norvig to be a better introduction where it covers the same topic, which it does for everything I can think of, except VC dimension.The book sorely needs an update, it was written in 1997 and the field has moved fast. A comparison with Mitchell's current course (materials generously available online) shows that about 1/4 of the topics taught have arisen since the book was published; Boosting, Support Vector Machines and Hidden Markov Models to name the best-known. The book also does not cover statistical or data mining methods.Despite the subjective complaint about lack of depth it does give the theoretical roots and many fundamental techniques decently and readably. For many purposes though it may have been superceded by R&amp;N 2nd ed.", 
+  "title": "Machine Learning"
+}

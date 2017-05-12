@@ -1,0 +1,6 @@
+{
+  "asin": "0070428077", 
+  "price": 50.27, 
+  "reviewText": "First of all, the statistical part of machine learning is JUST a real subset of mathematical statisitcs, whatever Bayesian or frequentist. Secondly, the non-statistical part of machine learning is not systematic or well developed yet.We have used it as a textbook for a half-year course of Machine Learning. I think[1] this book is a collection of many methods from Pattern Recognition, Statistics, Coding Theory, etc.[2] anyone who wants to make clear the algorithms of EM, ME, etc, DO NOT read this book.[3] it is suitable for undergraduate students in light of its simple mathematics.[4] the examples in this book are very very naive.", 
+  "title": "Machine Learning"
+}

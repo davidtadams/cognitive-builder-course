@@ -1,0 +1,6 @@
+{
+  "asin": "0201157675", 
+  "price": 15.53, 
+  "reviewText": "I took an AI class and bought this. The professor is very old-school and still uses overhead projectors and hands out paper notes instead of something like PDF.The book is definitely dated here in 2013, but the ideas presented therein are valid. I would look elsewhere for a modern genetic algorithms book, though. Unless your professor is old-school and has textbooks older than you are.The code examples are largely irrelevant: nobody uses Pascal anymore, not even for teaching. So if you want to play along and run the code you either need to locate an old 386 and CRT monitor, or translate the code into something that actually runs in this century.", 
+  "title": "Genetic Algorithms in Search, Optimization, and Machine Learning"
+}

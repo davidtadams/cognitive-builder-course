@@ -1,0 +1,6 @@
+{
+  "asin": "1107422221", 
+  "price": 120.65, 
+  "reviewText": "This book defines machine learning as programs that learn from experience, but it focuses mostly on data mining.  There is a two-page nod to all the other kinds of machine learning, such as all the reinforcement learning work.  I'd prefer data mining to be called data mining. However, this is a good first book on data mining.Machine Learning first talks about the tasks and output of machine learning.  Author Peter Flach surveys the various types of models: Tree models (e.g., decision trees), rule models, linear models (e.g., regression and SVM), distance-based models (e.g., k Means), and probabilistic models.  He covers all the Usual Suspects, with no surprises.  He ends with a discussion of features and a little coverage of ensemble methods.  There aren't a ton of references, but the bibliography is reasonably long.The methods are presented with the math in matrix algebra form, which I like, and with a high-level algorithm in pseudocode.  The book is well illustrated. It would be nice if it contained more discussion of how to know when to believe the resulting model, how to judge quality.", 
+  "title": "Machine Learning: The Art and Science of Algorithms that Make Sense of Data"
+}

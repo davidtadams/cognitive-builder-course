@@ -1,0 +1,6 @@
+{
+  "asin": "0470526823", 
+  "price": 28.26, 
+  "reviewText": "Last year I used this book for my first time teaching a Data Mining course. The biggest problem I had was the Data Miner software. I was not going to force my students to learn a low-power, low-popularity, proprietary system like that. (Instead, we used Data Mining with Rattle and R, by Graham Williams, for the computational parts.) So that aspect of the book was distracting.Despite that difficulty, it is a good book for general business uses of DM! The examples are discussed well in business terms, which is rare. The problems at the end of the chapter worked well when I assigned them, although as stated we had to figure out how to run R ourselves. Many problems also had &#34;solutions&#34; available online. The diagrams and explanations of the methods are clear. So it does a good job of being a formal textbook, unlike the vast majority of DM related books that are more for self study.This year I'm using a different book, which I won't use again for different reasons.  I will consider going back to this Shmueli/Patel/Bruce book if they provided a version that used R.", 
+  "title": "Data Mining for Business Intelligence: Concepts, Techniques, and Applications in Microsoft Office Excel with XLMiner"
+}

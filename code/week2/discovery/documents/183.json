@@ -1,0 +1,6 @@
+{
+  "asin": "111844714X", 
+  "price": 113.76, 
+  "reviewText": "First off, I'm a pure programmer who is just delving into predictive analytics, and am probably lacking in the statistical theory background that I really ought to be; but I did study math some 25 years ago, so I'm capable of reading fairly following along even fairly technical discussions.  With that said, I did find the discussion here to be very accessible. If you don't know anything about stats and never studied math (or worse, really have an aversion to it), then frankly you should probably stay away from analytics altogether.In this book, R is used to illustrate what is being discussed in analytics and mining, but the book is not about R by any means.  As a puer programmer, I like to know my toolkit inside and out, so I would recommend also purchasing a book about R; the Manning Press books are wonderful and you can download the source code presented in their books too. But this book really is very useful on top of those too.  I'd recommend both.", 
+  "title": "Data Mining and Business Analytics with R"
+}

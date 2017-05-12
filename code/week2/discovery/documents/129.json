@@ -1,0 +1,6 @@
+{
+  "asin": "0387848576", 
+  "price": 45.45, 
+  "reviewText": "This should certainly not be the first statistics book you read, or even the second or third book, but when you are ready for it then you should absolutely read it.  But be prepared to read it very slowly and digest each page.  Its greatest strength is that it shows how much of modern statistics comes down to a few fundamental issues: bias, variance, model complexity, and the curse of dimensionality.  There is no free lunch in statistics, methods that claim to avoid these tradeoffs only do so by adding more assumptions about the structure of your data.  If your data match the assumptions of such methods, you gain statistical power, but if your data don't match the assumptions then you lose.By looking closely at the assumptions, the book shows how many contemporary methods that look different are fundamentally similar under the hood.And in my own work I have adopted their use of open circles for the points in scatterplots.  These circles are easier to see than tiny solid dots, but overlapping symbols don't cover each other the way large filled symbols do.", 
+  "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)"
+}

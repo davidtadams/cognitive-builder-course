@@ -1,0 +1,6 @@
+{
+  "asin": "1449361323", 
+  "price": 31.89, 
+  "reviewText": "Data Science for Business is one of several data science titles from O'Reilly. It is probably the most comprehensive in terms of theory. That said, it feels a bit too comprehensive, including everything from statistical methods to research proposals to how to talk to your data people. One thing it doesn't get into though is the actual technology. It is assumed that your data experts will figure that out and you'll ask technology questions at the meta level. It's an approach that would make more sense if you spent more time understanding results at the meta level too. As a result I would suggest this otherwise comprehensive tome needs an accompanying guide to data science technology.If you are an executive with low level experience doing data science, e.g. with Excel sheets for company specific data, this is a good guide to thinking seriously about higher level stuff. But if you are truly curious about what this data science stuff is all about, I would recommend starting with a different O'Reilly title, Doing Data Science, which provides more of a ground level approach to what you can do with data science and how.", 
+  "title": "Data Science for Business: What you need to know about data mining and data-analytic thinking"
+}

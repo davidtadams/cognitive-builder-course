@@ -1,0 +1,6 @@
+{
+  "asin": "0123814790", 
+  "price": 22.5, 
+  "reviewText": "This is a jam-packed textbook covering everything from \"what is data mining?\" to \"speeding up constrained clustering with obstacles\".The math and statistics put this as a high level computer science course, and I doubt this material can be worked through in one semester without picking focus areas of interest.  Students should have backgrounds in Linear Algebra, Databases, and enough C/C++ or similar level language to understand complex pseudocode.This 2nd Edition has 630 pages organized into 13 chapters:1. Introduction2. Getting to Know Your Data3. Data Preprocessing4. Data Warehousing and OLAP5. Data Cube Technology6. Mining Frequent Patterns, Associations, and Correlations7. Advanced Pattern Mining8. Classification: Basic Methods9. Classification: Advanced Methods10. Cluster Analysis: Basic11. Advanced Cluster Analysis12. Outlier Detection13. Data Mining Trends and Research FrontiersEach chapter ends with 10-20 exercises, a subset of which would require a few hours of homework time.Figures included are demonstrative and helpful.", 
+  "title": "Data Mining: Concepts and Techniques, Third Edition (The Morgan Kaufmann Series in Data Management Systems)"
+}

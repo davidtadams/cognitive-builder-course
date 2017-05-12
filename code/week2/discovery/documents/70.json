@@ -1,0 +1,6 @@
+{
+  "asin": "0201157675", 
+  "price": 15.53, 
+  "reviewText": "One seldom finds a book as well-written as this one. The underlying mathematics are explained in a very accessible manner, yet with enough rigor to fully explain the &quot;partial schemata&quot; theory which is so  important to understanding when and where GenAlgs can be applied. It is the  lack of coverage of this theory which causes so much misunderstanding and  disappointment in the power of genetic algorithms.But beyond the  background math (which makes up a small part of the book) this is really a  tutorial on implementing GenAlgs, and it is an excellent one. The sample  code is great, and the implementations are developed throughout the book,  allowing the reader to implement simple (but functional) algorithms after  reading only the first few chapters, but building to very sophisticated and  modern techniques by the end of the book.A great find.", 
+  "title": "Genetic Algorithms in Search, Optimization, and Machine Learning"
+}

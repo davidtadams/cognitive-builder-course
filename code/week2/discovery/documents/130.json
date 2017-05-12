@@ -1,0 +1,6 @@
+{
+  "asin": "0387848576", 
+  "price": 45.45, 
+  "reviewText": "This book is used by many machine learning courses. It is used in the Stanford grad program, which should give everyone enough understand of the authors targeted audience. Do not expect to sit down and just read it like a novel for a quick overview of statistical learning methods. Warning, expect some heavy duty math. In the interest of full disclosure I'll repeat: expect mega-math. The authors claim you can read the book and avoid what they term \"technically challenging\" sections, but I'm not really sure how one would do that. The book presents just about every important ML technique from decision trees to neural nets and boosting to ensemble methods.  The Bayesian neural nets are tons of fun.You can download a pdf copy from the authors website to take a look at it, but a serious student in the subject really should get hardcopy. [...]", 
+  "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)"
+}

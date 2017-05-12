@@ -1,0 +1,6 @@
+{
+  "asin": "0070428077", 
+  "price": 50.27, 
+  "reviewText": "This book serves as an excellent introduction to machine learning.  The material covers a broad range of important machine learning concepts and algorithms.  The text is well-written and well-organized, and I use it frequently as a reference.  In addition to describing the basic theory and mechanics of the algorithms, the book helps develop an intuitive feel for the algorithms and provides examples of how they have been used.That said, the coverage of the theory behind the algorithms is fairly superficial.  Additionally, having been written in 1997, many recent algorithms such as SVMs and methods such as Adaboost are not covered.  For those reasons, this book cannot serve as a stand-alone text book for a course.", 
+  "title": "Machine Learning"
+}

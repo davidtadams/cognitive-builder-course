@@ -1,0 +1,6 @@
+{
+  "asin": "1449367615", 
+  "price": 31.2, 
+  "reviewText": "I bought the first version of this book a few years ago. This one much easier to follow. The IPython Notebooks and vagrant virtual machine makes this easier to set up. The tools themselves have also evolved, so initial set up locally is a breeze for an experienced programmer.Positive:- This book uses one of the most popular general purpose languages, Python. This book isn&#8217;t written for the complete novice, but anyone with any programming experience shouldn&#8217;t have a problem understanding the code- This book gets the user up and running faster by providing a Vagrant VM with all dependencies as well as IPython notebooks.- Other social media books focus on Facebook and Twitter. This one includes chapters on Google+, LinkedIn, and Github, as well as more traditional data mining on mailboxes and webpages.Negative:This book is not for Python beginners. The book does try to explain what some Python features are, but Python itself is out of scope for this book.Overall, it&#8217;s a very good purchase for those who need to learn how to use social media APIs quickly.", 
+  "title": "Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More"
+}

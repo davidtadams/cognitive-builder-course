@@ -1,0 +1,6 @@
+{
+  "asin": "0387310738", 
+  "price": 25.6, 
+  "reviewText": "First, realize that the author has distilled everything he has to say into probably the fewest number of words possible. He is, however, fairly generous with equations, and his derivations are well-presented and easy to follow.Initially I thought the book was way too dense, and skipped way too many steps, providing what amounted to a rough sketch of the material. That said, after I read the chapters a few times, and consulted other materials, I came to find that every chapter I read in-depth is actually quite thorough.Cons: Doesn't repeat anything, which is an interesting pedagogical tactic. No examples, so you're on your own in terms of actually implementing these things.Pros: Provides a relatively large amount of depth on a large number of topics. Equations are derived enough so you really know what's going on.Bottom line: Buy it. It's dense, and there are no examples, but it's a great staple book because it provides a robust outline of the theory behind many methods. Sure, sometimes you won't know what he's talking about, but you can look up the stuff he leaves out without much fuss. The stuff he does include, though, is very hard to find elsewhere.", 
+  "title": "Pattern Recognition and Machine Learning (Information Science and Statistics)"
+}

@@ -1,0 +1,6 @@
+{
+  "asin": "0262193981", 
+  "price": 58.49, 
+  "reviewText": "This book provides an easy to read introduction in reinforcement learning. It covers several approaches (dynamic programming, monte carlo, temproal differnce) and gives a lot of examples.However, in my opinion it is neither well structured nor written. The book has no clear separation between theory and examples given to demonstrate the applications of the theory. Due to this, the theoretical ideas are blured instead of clearified. After going through the examples it is always possible to find out how it work, but this should not be necessary.After reading this book you will definetely know the basics (even more) about reinforcement learning. However, I somehow expected more because of the names of the authors.  Perhaps this is not only a problem of this book but of the field of reinforcement learning itself.", 
+  "title": "Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning)"
+}

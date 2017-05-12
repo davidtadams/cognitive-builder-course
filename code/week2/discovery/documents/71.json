@@ -1,0 +1,6 @@
+{
+  "asin": "0201157675", 
+  "price": 15.53, 
+  "reviewText": "This is a great book to begin your journey on Genetic Algorithms (GA). The author is a pioneering authority on the subject and has explained the basics of a GA in a very gentle and easy to understand manner. The book has a great variety of specific but diverse examples, which may not be useful at first glance, but gives an insight to where all the technique has been applied!However, some aspects of the book perhaps need an edition, like the more recent advances in GA operators, specifics of chromosomal representation schemes, non-linear optimization functions, etc. I have read several, well written books on the subject, but this one has a very distinct and sometimes interesting style of writing! The best would be to quickly read this one to get a fairly good understanding of the basics and then take up a recent book that addresses other aspects like Mitchell's book, for example.Having said that, I think the book is a great and inspiring start to using genetic algorithms.", 
+  "title": "Genetic Algorithms in Search, Optimization, and Machine Learning"
+}

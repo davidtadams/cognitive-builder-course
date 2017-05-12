@@ -1,0 +1,6 @@
+{
+  "asin": "111844714X", 
+  "price": 113.76, 
+  "reviewText": "I have been using R for my data analysis purposes, however I am not an R programmer, neither a statistician. So receiving this book for review was actually helpful. The book covers practical usage of R libraries for data mining / data analysis / machine learning purposes.The book does not teach how to program R, and most of the time you do not need to. Most R work can be done with the provided IDE as small scripts, and the extensive libraries in CRAN. The other two uses are more complicated: writing R libraries require a good knowledge on the language, and is subject of a different book. And embedding R as a DLL in your application is a simply an &#34;interesting&#34; task requiring learning internal memory models, and strange quirks. But hopefully you'll not need to learn that.Back to the book: The overall coverage seems to be good, and the language, and the flow is sufficient for people who has data mining / machine learning background, but with little previous exposure R. That was exactly for me, and I would recommend the book if you are in a similar situation.", 
+  "title": "Data Mining and Business Analytics with R"
+}

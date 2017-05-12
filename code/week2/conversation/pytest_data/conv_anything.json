@@ -1,0 +1,36 @@
+{
+  "intents": [],
+  "entities": [],
+  "input": {
+    "text": "bla"
+  },
+  "output": {
+    "log_messages": [],
+    "text": [
+      "<Politeness Error> I am starting this dialog when prompted by Hello. ^^"
+    ],
+    "nodes_visited": [
+      "node_2_1494179528113"
+    ]
+  },
+  "context": {
+    "conversation_id": "740a2eaf-7296-4194-9c71-418b687b696b",
+    "system": {
+      "dialog_stack": [
+        {
+          "dialog_node": "root"
+        }
+      ],
+      "dialog_turn_counter": 1,
+      "dialog_request_counter": 1,
+      "_node_output_map": {
+        "node_2_1494179528113": [
+          0
+        ]
+      },
+      "branch_exited": true,
+      "branch_exited_reason": "completed"
+    }
+  },
+  "alternate_intents": false
+}

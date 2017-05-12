@@ -1,0 +1,6 @@
+{
+  "asin": "1441998896", 
+  "price": 30.4, 
+  "reviewText": "R is becoming one of the leading tools of choice for serious data mining and quantitative analysis and is probably the most commonly used tool at the graduate school level today (it helps that it is open source and free!).  But as a programming language, it has a steep learning curve, at least steeper than many of the more traditional GUI-based tools for quantitative and statistical analysis like SPSS or even SAS.  This book provides a great introduction to both the topic of data mining and using the Rattle interface, which is a GUI built around typical data mining functions for the R language.  If you work through this book in detail, you will learn a fair bit the basics of the R language as well as how to complete some basic data mining tasks inside the Rattle interface.  For anyone looking to learn more about R, this would be a great introduction.", 
+  "title": "Data Mining with Rattle and R: The Art of Excavating Data for Knowledge Discovery (Use R!)"
+}

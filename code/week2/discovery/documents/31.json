@@ -1,0 +1,6 @@
+{
+  "asin": "0120884070", 
+  "price": 13.85, 
+  "reviewText": "The first edition of this book was good, but this is a huge improvement. The writing is really great, very clear, even when it heads into deeper waters. The explanation, for instance, of the various algorithms for accomplishing attribute discretization is very clear, even as the equations start to get very long and complicated.It's pretty incredible that this book is so readable, kudos to the authors for that. Most importantly, though, it gives you a very good sense of what you need to know as you work through the many data mining options. The authors' assertion that DM is not a magic box is good, and it is clearly a dictate that they mind themselves throughout the book: DM doesn't mean that you just plug in a black box and it starts to lay eggs. Generating rules, building trees and knowing how to pick attributes to build the tree from are all critical topics that get excellent treatment.", 
+  "title": "Data Mining: Practical Machine Learning Tools and Techniques, Second Edition (Morgan Kaufmann Series in Data Management Systems)"
+}

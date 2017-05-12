@@ -1,0 +1,6 @@
+{
+  "asin": "0387310738", 
+  "price": 25.6, 
+  "reviewText": "I started to read this book after I gave up the book \"element of statisitcal learning\" which I read about 80 pages.  I won't say that the latter book EoSL is bad, but it definitely assumes a much higher math background.  Also it doesn't give all the derivations and reasonings, so it may take a long time to understand a single paragraph. The reading is slow and frustrating.  I read each chapter twice, but still do not think I did get it in my heart.By contrast, the book \"Pattern Recognition and machine learning\" assumes much less math background, and usually gives complete derivation and reasoning, which makes it a pleasure to read.  Therefore, if you are not in statistics major (but a CS major with reasonable statistics background), I recommend you to start this book.Answers to some problems are posted in the author's website (just google the author's name).  It is a big plus to me.", 
+  "title": "Pattern Recognition and Machine Learning (Information Science and Statistics)"
+}

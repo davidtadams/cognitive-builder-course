@@ -1,0 +1,6 @@
+{
+  "asin": "0123748569", 
+  "price": 20.99, 
+  "reviewText": "This book is great if you want to learn about data mining to find new relationships within your dataset.  It covers the important introductory concepts, including basic rule inference, Bayesian, and clustering, albeit somewhat briefly for those unfamiliar with the topic.Last time I used Weka was 6 or 7 years ago, at which point some of its algorithm implementations could easily be outperformed by coding them yourself (e.g. Bayesian).  However, it more quite user friendly for folks who wanted to focus on the outcome/output rather than coding.  The final section of this book is like an extensive user manual that Weka was sorely lacking back then.Overall, given that this book not only explains the concepts, but also how to use software to perform the data mining operations, this book fills a void that existed.", 
+  "title": "Data Mining: Practical Machine Learning Tools and Techniques, Third Edition (The Morgan Kaufmann Series in Data Management Systems)"
+}

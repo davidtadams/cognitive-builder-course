@@ -1,0 +1,6 @@
+{
+  "asin": "111866146X", 
+  "price": 26.77, 
+  "reviewText": "This is a well thought out and designed tutorial for the beginner or for a power user that doesn't have large data sets to work with. If you need to produce reports for sales or you own a small business and want your basic BI, this book is great. However, once you start working with large enterprise level data sets with millions of rows and hundreds of columns of information, Excel becomes useless.The samples the author provides are very tiny sample sets compared to what most people need to use, and the 'Solver' add-in only works on these very small sample sets. If you have over 4 or 5 variables, you will receive an error, which makes the solutions the author provides basically useless for larger data sets - any BI you extract will not be from this method of doing things.", 
+  "title": "Data Smart: Using Data Science to Transform Information into Insight"
+}

@@ -1,0 +1,6 @@
+{
+  "asin": "111844714X", 
+  "price": 113.76, 
+  "reviewText": "Dr. Ledolter explains in the Introduction that this text is conceived for the education of MBA&#8217;s, a statement that is easily accepted given its lack of rigour, depth and detail.The style is to begin each chapter with a perfunctory review of some elementary technique, such as linear regression, and then demonstrate it with a series of examples and liberal references to R codes.  There is no attempt to present a general theory of the mathematics of data mining and predictive analytics or to help the reader evaluate the relative merits of the techniques discussed.  This dramatically reduces the usefulness of the text.  Far worse, the most powerful data mining methods, based on kernel based statistical learning theory, are almost completely ignored.  Support Vector Machines, for example, are mentioned only in passing because a proper treatment would require explaining too much mathematics!  Of course, if one doesn&#8217;t know or doesn&#8217;t like R, the book is even less useful.In short, this text is little more than a poorly conceived collection of references to R packages that leaves the reader with no genuine understanding of this fascinating field.  One would do better simply by doing an online search of the literature.", 
+  "title": "Data Mining and Business Analytics with R"
+}

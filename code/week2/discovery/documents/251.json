@@ -1,0 +1,6 @@
+{
+  "asin": "1449361323", 
+  "price": 31.89, 
+  "reviewText": "If you're thinking of analyzing large datasets for common business applications (e.g. targeted marketing), this book will give you everything you need to know and then some. It not only gives an overview of the most popular techniques for prediction and categorization, but also highlights some of the subtler technical issues involved (overfitting, choosing an appropriate loss function) as well as higher-level concerns (privacy, comprehensibility). My only quibble is that some of the visualizations shown in the book are not adequately explained.", 
+  "title": "Data Science for Business: What you need to know about data mining and data-analytic thinking"
+}

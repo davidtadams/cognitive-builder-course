@@ -1,0 +1,6 @@
+{
+  "asin": "0201157675", 
+  "price": 15.53, 
+  "reviewText": "This book gives a good introduction to genetic algorithms for a general undergraduate audience. However, it is important to note that it does not cover Evolutionary Strategies, an approach to evolutionary computing that I have found quite useful  since it is specifically designed for Euclidean space optimization problems where many if not most interesting optimization problems are formulated in (take for example the problem of determining the weights of a neural network that minimizes the network's overall classification error). Nor does it cover evolutionary programming (not to be confused with genetic programming). So after reading this book, I recommend (for the mathematically adventurous) Thomas Back's \"Evolutionary Algorithms in Theory and Practice: Evolution Strategies, Evolutionary Programming, Genetic Algorithms\"ISBN: 0195099710Happy reading and enjoy the fascinating world of evolutionary computation!", 
+  "title": "Genetic Algorithms in Search, Optimization, and Machine Learning"
+}

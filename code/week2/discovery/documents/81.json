@@ -1,0 +1,6 @@
+{
+  "asin": "0262013193", 
+  "price": 38.58, 
+  "reviewText": "This is a great book for everyone, who wants to understand probabilitstic graphical models in details,including Bayesian/Markov Networks, inference and learning from complete/incomplete data.For getting the most from this book I recommend attending Probabilitic Graphical Models Course by Professor Daphne Koller at Stanford University [...]I wouldn't necessarily recommend it as a very first position on Bayesian Networks.Before reading it I had read the 'Modeling and Reasoning with Bayesian Networks' book by Professor Adnan Darwiche at UCLA Computer Science Department, and it was more intuitive read, perhaps,because of limiting the scope of a book to discrete variables and inference/learning in Bayesian Networks only.", 
+  "title": "Probabilistic Graphical Models: Principles and Techniques (Adaptive Computation and Machine Learning series)"
+}

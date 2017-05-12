@@ -1,0 +1,6 @@
+{
+  "asin": "1449303714", 
+  "price": 40.27, 
+  "reviewText": "This is a pretty accessible introduction to basic ML concepts using R. Two things would benefit this book immensely: (1) Remove chapter 11 since it's completely deprecated and worthless now. Or re-write it entirely. Or at least update the code online to show something that will work now that SocialGraph is no more. (2) Keep the code samples at the author's web site updated. There are tons of issues with these, especially with the Twitter samples. Those third party services are constantly in flux and I know it's tough to keep the code updated, but that's sort of the price of admission for writing a book like this, I guess.", 
+  "title": "Machine Learning for Hackers"
+}

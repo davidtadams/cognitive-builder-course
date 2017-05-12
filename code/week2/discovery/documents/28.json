@@ -1,0 +1,6 @@
+{
+  "asin": "0120884070", 
+  "price": 13.85, 
+  "reviewText": "I bought this book in the hopes that it would help me better explore the data from the Netflix Prize contest, which it did. I had been reading numerous Wikipedia articles, scientific papers, etc. on line and felt it would be useful to have a more general tome on the subject. This book covers many of the common, overarching themes i.e. clustering, neural networks, linear regression, etc. to varing degree. I only wish the examples involved slightly more complex data sets and more pseudo code was provided. I suppose since the book is very closely tied to WEKA, one could always dig through the source code of that application; but I feel that the authors could have provided a bit more of the strictly algorithm relevant code in the book.", 
+  "title": "Data Mining: Practical Machine Learning Tools and Techniques, Second Edition (Morgan Kaufmann Series in Data Management Systems)"
+}

@@ -1,0 +1,6 @@
+{
+  "asin": "1782161406", 
+  "price": 18.49, 
+  "reviewText": "I am rating this on a sliding scale by giving it 4 stars instead of 3. What I mean is that, compared to what else is out there, this book is far and away superior. Sadly, before I ran across this book, everything else I had studied on ML had turned out to be a waste of my time. I am primarily a self-taught programmer --- by choice not necessity. And I am offended when I run across topics like ML which have developed the reputation of being some sort of dark art which only exceptionally talented programmers can understand. The problem is not that ML is hard to learn. The problem is that publishers are pushing out books written by authors who are great programmers but lousy teachers.Even worse, the publishers, obviously, are not hiring competent programmers to proof read the examples. Hence, users fix broken code examples after publication and pass the errata back to the author via the book's website. Which is why downloaded examples work but the book's examples frequently do not. Hence, make sure you download the examples, not just read about them, if you expect them to actually work.", 
+  "title": "Building Machine Learning Systems with Python"
+}

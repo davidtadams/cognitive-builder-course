@@ -1,0 +1,6 @@
+{
+  "asin": "1617291560", 
+  "price": 42.49, 
+  "reviewText": "What is R? If I am not mistaken, R stands for regression.This book isn't about using R for regression.The &#34;data science&#34; the authors refer to seems to involve analyzing data around basic ratios and graphs. At least for me, some of the codes provided using ggplot2 did not work properly using the downloaded datasets.Another point of annoyance: downloading the datasets used in this book required me to download and use GitHub, which to me is a sorry piece of software that I would otherwise never use. What a hassle that was.The book assumes you are already familiar with statistics. I specifically do not recommend this book for those who are trying to learn and understand regression using R.Pros:1)Fantastic examples on how to use the graphing features of R.2)Good breakdown of basic data analysis (not on regression).Cons:1)Scant information on statistics and R. Don't mistaken this book as a book on statistics (as &#34;data science&#34; implies).2)Does not focus on regression using R.", 
+  "title": "Practical Data Science with R"
+}

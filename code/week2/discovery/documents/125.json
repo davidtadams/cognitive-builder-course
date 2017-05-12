@@ -1,0 +1,6 @@
+{
+  "asin": "0387848576", 
+  "price": 45.45, 
+  "reviewText": "The book is excellent if you want to use it as a reference and study machine learning by yourself. It's quite comprehensive and deep in areas in which authors are most familiar & famous (frequentist approach, ensemble techniques,  maximum likelihood and its variations, lasso). I would recommend you Bishop's machine learning book as an alternative if you want to gain a deeper understanding of Bayesian techniques--that one is more readable as well.  Hastie et al's book is just ok from a didactic point of view. The real world examples are complicated to follow (would prefer simpler synthetic data sets). Some descriptions & explanations are too terse--a price to pay for comprehensiveness in a small volume. Overall, a great effort and useful contribution. You'll most likely need to check out other sources to gain a deeper understanding of some of the topics discussed. See MIT machine learning lecture notes (available online) & Bishop's books if you're a newcomer to machine learning.", 
+  "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)"
+}

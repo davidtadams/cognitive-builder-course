@@ -1,0 +1,6 @@
+{
+  "asin": "1782162143", 
+  "price": 20.44, 
+  "reviewText": "If you are new to both machine learning and R and want to learn both at the same time, I can't imagine there being a better book.I needed to figure out how to implement nearest neighbors, decision trees, SVM, neural networks, and boosting on two data sets, in a short amount of time. I had no experience with R and my only prior experience with machine learning was neural networks. Using this book I was able to implement four algorithms in R. For each topic the book describes an application, the algorithm, provides code to implement the algorithm. You can download the data set from the publisher's website so you can try it out.", 
+  "title": "Machine Learning with R"
+}

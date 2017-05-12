@@ -1,0 +1,6 @@
+{
+  "asin": "1449303714", 
+  "price": 40.27, 
+  "reviewText": "By page count, this is primarily a book on R, with some additional time spent on machine learning.There is way too much time spent on R, dedicated to such things as parsing email messages, and spidering webpages, etc. These are things that no-one with other tools available would do in R. And it's not that it's easier to do it in R, it's actually harder than using an appropriate library, like JavaMail. And yet, while much time is spent in details, like regexes to extract dates (ick!), more interesting R functions are given short shrift.There's some good material in here, but it's buried under the weight of doing everything in R. If you are a non-programmer, and want to use only one hammer for everything, then R is not a bad choice. But it's not a good choice for developers that are already comfortable with a wider variety of tools.I'd recommendProgramming Collective Intelligenceby Segaran, if you would describe yourself as a \"Hacker\".", 
+  "title": "Machine Learning for Hackers"
+}

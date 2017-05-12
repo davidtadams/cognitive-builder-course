@@ -1,0 +1,6 @@
+{
+  "asin": "0120884070", 
+  "price": 13.85, 
+  "reviewText": "This book reminds me of the programming books by Deitel&Deitel.; It's wordy and superficial, making lots of people feel like they understand the subject. Unfortunately, it takes *much* more than what's in this book to really understand Data Mining. Compare this book to the book by Hastie, Friedman and Tibshiranie, which really goes into the statistics involved in Data Mining.There is no magic: real Data Mining needs lots of Statistics. You can learn to use Weka, but in order to do real work you'll need to understand what goes behind its nice user interface, and I think this book is not enough.", 
+  "title": "Data Mining: Practical Machine Learning Tools and Techniques, Second Edition (Morgan Kaufmann Series in Data Management Systems)"
+}

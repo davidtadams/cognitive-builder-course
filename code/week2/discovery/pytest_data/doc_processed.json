@@ -1,0 +1,138 @@
+{
+	"asin": "0070428077",
+	"price": 50.27,
+	"title": "Machine Learning",
+	"text": "There is no real formatting in this book, just one big slob of text. It is very unreadable and boring",
+	"enriched_text": {
+		"status": "OK",
+		"language": "english",
+		"docSentiment": {
+			"type": "negative",
+			"score": -0.887529,
+			"mixed": false
+		},
+		"concepts": [
+			{
+				"text": "Writing",
+				"relevance": 0.862267,
+				"dbpedia": "http://dbpedia.org/resource/Writing",
+				"freebase": "http://rdf.freebase.com/ns/m.081rb",
+				"opencyc": "http://sw.opencyc.org/concept/Mx4rvVjLvpwpEbGdrcN5Y29ycA"
+			}
+		],
+		"entities": [],
+		"relations": [
+			{
+				"sentence": "There is no real formatting in this book, just one big slob of text.",
+				"subject": {
+					"text": "no real formatting",
+					"sentiment": {
+						"type": "negative",
+						"score": -0.837347,
+						"mixed": false
+					},
+					"keywords": [
+						{
+							"text": "real formatting"
+						}
+					]
+				},
+				"action": {
+					"text": "is",
+					"lemmatized": "be",
+					"verb": {
+						"text": "be",
+						"tense": "present"
+					}
+				},
+				"location": {
+					"text": "in this book"
+				}
+			},
+			{
+				"sentence": " It is very unreadable and boring",
+				"subject": {
+					"text": "It"
+				},
+				"action": {
+					"text": "is",
+					"lemmatized": "be",
+					"verb": {
+						"text": "be",
+						"tense": "present"
+					}
+				},
+				"object": {
+					"text": "very unreadable and boring",
+					"sentiment": {
+						"type": "negative",
+						"score": -0.918622,
+						"mixed": false
+					}
+				}
+			}
+		],
+		"taxonomy": [
+			{
+				"label": "/technology and computing/hardware/computer components/disks",
+				"score": 0.707021,
+				"confident": false
+			},
+			{
+				"label": "/art and entertainment/books and literature",
+				"score": 0.684573,
+				"confident": false
+			},
+			{
+				"confident": false,
+				"label": "/technology and computing/software/graphics software",
+				"score": 0.099673
+			}
+		],
+		"keywords": [
+			{
+				"relevance": 0.990161,
+				"sentiment": {
+					"score": -0.72651,
+					"type": "negative",
+					"mixed": false
+				},
+				"text": "big slob"
+			},
+			{
+				"relevance": 0.864297,
+				"sentiment": {
+					"score": -0.745143,
+					"type": "negative",
+					"mixed": false
+				},
+				"text": "real formatting"
+			},
+			{
+				"relevance": 0.318513,
+				"sentiment": {
+					"score": -0.745143,
+					"type": "negative",
+					"mixed": false
+				},
+				"text": "book"
+			},
+			{
+				"relevance": 0.314426,
+				"sentiment": {
+					"score": -0.72651,
+					"type": "negative",
+					"mixed": false
+				},
+				"text": "text"
+			}
+		],
+		"docEmotions": {
+			"anger": "0.098764",
+			"disgust": "0.055186",
+			"fear": "0.210359",
+			"joy": "0.051386",
+			"sadness": "0.704745"
+		}
+	}
+}

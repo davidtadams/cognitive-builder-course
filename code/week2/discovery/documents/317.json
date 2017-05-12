@@ -1,0 +1,6 @@
+{
+  "asin": "1782162143", 
+  "price": 20.44, 
+  "reviewText": "For $20.44 I expected a book that was useful. Indeed, if I were a High School student, I might have found this book useful. The book does provide a shallow overview of Machine Learning, with some R code. The book carefully explains things like standard deviation (if you need this background I recommend A Cartoon Guide to Statistics (seriously)). But there is no depth at all and the introduction to R is cursory. This is not a book in the Springer Use R! series.If you're not a High School student and you know basic statistics and basic college level math, this book will not be much use to you. Since there is so little in the way of background information, the book will be of no use in actually implementing Machine Learning algorithms. Machine Learning is a deep topic and this book has the depth of a rain puddle.", 
+  "title": "Machine Learning with R"
+}

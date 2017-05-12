@@ -1,0 +1,6 @@
+{
+  "asin": "0750676132", 
+  "price": 27.85, 
+  "reviewText": "I was very excited when I bought the book, but was somewhat disappointed. The reason for that is the book is very light on details and tends to talk about things rather then on how things are done and how they work. The book does cover some tools but with no connection to concepts and with few details on how the tools do what they do. It does contain a lot of interesting material and s generally well written.Of the most interest to me was the intrusion detection chapter, but in addition to a well-known facts on IDS technology it provided few details on how exactly data mining helps. MITRE case study seems to mostly hint at things rather then show how they were done in this project. I did pick up some ideas from it.Anton Chuvakin, Ph.D., GCIA, GCIH is a Senior Security Analyst with a major information security company. His areas of infosec expertise include intrusion detection, UNIX security, forensics, honeypots, etc. In his spare time, he maintains his security portal info-secure.org", 
+  "title": "Investigative Data Mining for Security and Criminal Detection"
+}

@@ -1,0 +1,6 @@
+{
+  "asin": "0123748569", 
+  "price": 20.99, 
+  "reviewText": "Context for this review: I am a data miner with 20 years experience, and own the first edition of this book.Good:- Accessible writing style- Broad coverage of algorithms and data mining issues, with an eye toward practical issues- Needless technical trivia (derivations and the like) are avoided- Algorithms are completely spelled out: A competent programmer should be able to turn these descriptions into functioning code.- Third edition makes meaningful improvements on previous editionsBad(ish):- Approximately one-third of this book is now devoted to the WEKA data mining software.  I have nothing against WEKA, and it is a good choice for a text such as this, since WEKA is free.  In my opinion, though, this coverage consumes too many pages of this book.- Data mining draws from a number of fields with separate roots (statistics, machine learning, pattern recognition, engineering, etc.), and many techniques go by multiple names.  As with many other data mining books, this one does not always point out the aliases by which data mining methods are known.The bottom line: This is still the best data mining text on the market.", 
+  "title": "Data Mining: Practical Machine Learning Tools and Techniques, Third Edition (The Morgan Kaufmann Series in Data Management Systems)"
+}

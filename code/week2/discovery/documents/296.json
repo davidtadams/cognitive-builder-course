@@ -1,0 +1,6 @@
+{
+  "asin": "1617290181", 
+  "price": 29.48, 
+  "reviewText": "This book is a good introduction to the main algorithms used in machine learning: linear/logistics regression, kNN, decision and regression trees, naive Bayes, support vector machines, AdaBoost, SVD, and PCA. The author does a good job as presenting complex concepts in a simple fashion.However, many chapters feel more like simplistic summaries around Python code and the editing can be poor at times repeating the same information between a main paragraph and a shaded summary on the next page. I would still recommend this book as a fairly broad overview of these techniques and a valuable starting point for implementing them. It is easy to read and offers a good selection of algorithms.If you are looking for a more formal alternative, I can only recommend the book from Hastie, Tibshirani, and Friedman:The Elements of Statistical Learning. That book presents a more rigorous approach to the same algorithms, their goals, limitations and main variants. It is presented as a reference book but does not drown the reader in an sea of formulas, unlike similar reference books.", 
+  "title": "Machine Learning in Action"
+}
